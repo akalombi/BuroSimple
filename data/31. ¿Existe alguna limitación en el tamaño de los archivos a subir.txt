@@ -1,0 +1,1 @@
+Existe una limitación de 15 MB en el tamaño de los ficheros que se quiere subir a través del Registro electrónico.

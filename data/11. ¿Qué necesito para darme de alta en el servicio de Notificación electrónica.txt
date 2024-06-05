@@ -1,0 +1,1 @@
+Identificarse mediante certificado de firma electrónica o medio de identificación electrónica admitido, tener una dirección de correo electrónico (en caso de usuarios obligados) y suscribirse al servicio.

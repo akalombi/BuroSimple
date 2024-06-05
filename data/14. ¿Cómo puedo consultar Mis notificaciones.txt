@@ -1,0 +1,1 @@
+Puede consultar el estado de sus notificaciones desde el servicio Buzón de notificaciones electrónicas.

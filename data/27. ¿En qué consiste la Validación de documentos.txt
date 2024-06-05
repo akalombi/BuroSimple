@@ -1,0 +1,8 @@
+Todos los documentos firmados electrónicamente en la aplicación incorporan un Código Seguro de Verificación (CSV) generado automáticamente.
+
+De esta forma, cuando se imprime una copia en papel, dicho código actúa como "localizador" del documento dentro del archivo electrónico del Ayuntamiento, dotando al documento en papel de la consideración de copia auténtica a todos los efectos legales.
+
+Si un ciudadano u otra Administración reciben la copia en papel, pueden verificar su autenticidad de documento de forma muy sencilla.
+
+Basta con que accedan a la Sede electrónica del Ayuntamiento, al servicio "Validación de documentos" del menú "Trámites" y tecleen el código de identificación. En ese mismo momento podrán descargar la versión original del documento en formato electrónico y comprobar su autenticidad.
+Puede acceder a este servicio desde la opción "Validación de documentos" del menú "Trámites".

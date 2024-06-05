@@ -1,0 +1,3 @@
+Este servicio del Ayuntamiento permite que un ciudadano pueda firmar documentos que el Ayuntamiento le ha enviado.
+
+Puede acceder desde el servicio "Portafirmas" del menú "Mis Datos".

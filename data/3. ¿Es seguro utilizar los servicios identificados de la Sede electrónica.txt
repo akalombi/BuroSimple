@@ -1,0 +1,1 @@
+Sí, toda la información que viaja en los servicios que requieren identificación en la Sede electrónica del Ayuntamiento está cifrada. Además y gracias al sistema de autenticación implantado se garantiza que sólo usted, como interesado en sus trámites, pueda acceder tanto a la información de tramitación, como a las consultas de datos personales.

@@ -1,0 +1,1 @@
+Puede consultar la información referente a sus anotaciones de entrada y salida desde el servicio "Anotaciones en el registro" del menú "Mis Datos".

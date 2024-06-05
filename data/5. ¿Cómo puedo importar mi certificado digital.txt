@@ -1,0 +1,25 @@
+INTERNET EXPLORER
+
+Para importar un certificado en Internet Explorer debemos realizar los siguientes pasos:
+
+Acceder al menú Herramientas - Opciones de Internet - Contenido - Certificados. La pestaña "Personal" (por defecto) muestra una pantalla con la relación de Certificados personales instalados en nuestro navegador.
+
+Pulsamos el botón "Importar", aparecerá un Asistente que nos guiará durante toda la importación del certificado. Pulsamos el botón "Siguiente" y en examinar seleccionamos la ruta y el nombre del fichero del certificado que queremos importar y pulsamos "Siguiente".
+
+En la siguiente ventana se nos pide la contraseña con la que está protegido el fichero, la introducimos y marcamos la casilla "Marcar la clave privada como exportable" para que podamos volver a exportar el certificado con su clave privada y "Habilitar protección segura...". Pulsamos "Siguiente".
+A continuación nos indica donde podemos colocar el certificado importado, dejaremos la opción por defecto y pulsaremos "Siguiente" y "Finalizar" y si queremos establecer una contraseña a nuestro certificado pulsamos "Nivel de seguridad" para ponerlo en alto. Asignamos una contraseña y su confirmación. Pulsamos finalizar y nos pedirá de nuevo la contraseña que hemos introducido. Finalizamos el asistente.
+
+Si todo es correcto aparecerá un cuadro informándonos de que el certificado ha sido importado correctamente.
+
+FIREFOX
+
+Acudir al almacén de certificados del navegador Mozilla Firefox:
+
+Menú Herramientas / Opciones / Privacidad y Seguridad / Certificados / botón Ver certificados, pestaña de "Sus Certificados".
+
+Pulse en el botón "Importar"
+Busque la ubicación (disco duro, cd, memoria USB, unidad de red) de la copia de su certificado que quiere importar.
+Inserte la contraseña maestra de su navegador (si estableció alguna). Si es la primera vez que usa este navegador con certificados, inserte una contraseña y la confirmación, esta contraseña será requerida cada vez que quiera usar su certificado en las webs que lo requieran.
+Inserte la contraseña con la que protegió su copia de seguridad
+Si todo el proceso es correcto, recibirá el siguiente mensaje:
+"Se han restaurado satisfactoriamente su(s) certificado(s) de seguridad y clave(s) privada(s)."

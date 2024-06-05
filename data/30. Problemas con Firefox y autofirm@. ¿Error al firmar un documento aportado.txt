@@ -1,0 +1,1 @@
+Se soluciona importando el certificado de autofirma root que esta en C:\Program Files\AutoFirma\AutoFirma\AutoFirma_ROOT.cer en Firefox, en Autoridades de Firefox. Esto es algo que puede ocurrir con las últimas versiones de Firefox

@@ -1,0 +1,20 @@
+Existen varias formas de suscribirse o darse de baja del servicio de notificación electrónica.
+
+1.- Desde la solicitud "Subscripción o baja de notificaciones electrónica"
+
+Podremos elegir 3 opciones:
+
+En el buzón de notificaciones electrónicas de la Sede:
+Permite la subscripción al servicio de notificación electrónicas para todos los procedimientos disponibles en la Sede electrónica.
+Por correo postal:
+Permite la baja al servicio de notificación electrónicas para todos los procedimientos disponibles en la Sede electrónica.
+Deseo elegir por tipo de trámite:
+Permite la subscripción o baja al servicio de notificación electrónicas de forma individual para cada uno de los procedimientos disponibles en la Sede electrónica.
+ 
+
+2.- Desde el propio trámite
+
+Durante el proceso de tramitación se elige el medio de notificación.
+
+Notificación electrónica: al seleccionar este medio se está suscribiendo al servicio de notificación electrónica únicamante en dicho procedimiento.
+Notificación papel: al seleccionar este medio se está dando de baja del servicio de notificación electrónica únicamante en dicho procedimiento.

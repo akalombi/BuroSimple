@@ -1,0 +1,5 @@
+- Al firmar un documento o el formulario de la solicitud aparece el mensaje "No se ha podido establecer la conexión con AutoFirma"
+Esto es porque no tiene instalada la aplicación de Autofirma.
+
+- Al firmar un documento aparece el mensaje "Se ha perdido la conexión con la aplicación @firma"
+Si utiliza Internet Explorer 11 (IE11) debe desmarcar la opción "Habilitar Modo protegido", en "Opciones de Internet -> Seguridad" y reiniciar el navegador para que los cambios surtan efecto.

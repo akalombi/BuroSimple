@@ -1,0 +1,19 @@
+Para visualizar correctamente la Sede Electrónica del Ayuntamiento, se deben de tener en cuenta las siguientes recomendaciones y requisitos técnicos.
+
+Sistemas operativos soportados: Windows 7, Linux Ubuntu, Mac OS.
+Navegadores soportados: Internet Explorer 11, Chrome, Firefox.
+Aún así se recomienda el uso de:
+
+Sistema operativo: Windows 7 o superior.
+Navegador: Chrome o Firefox.
+Para poder acceder a los servicios identificados de la sede electrónica consulte el apartado de Sistemas de identificación. Si accede con un certificado, puede comprobar si lo tiene bien instalado a través de VALIDe.
+
+Con la intención de facilitar el proceso de firma electrónica, se han integrado los servicios que requieren firma con el componente autofirm@ del Ministerio de Hacienda y Administraciones Públicas.
+
+Para su uso se requiere su instalación previa. En caso de querer firmar desde dispositivos móviles iOS o Android es necesario descargarse la aplicación desde la tienda de aplicaciones (aplicación Cliente móvil @firma).
+
+No está soportada ninguna otra aplicación de autofirm@ que no sea del Ministerio de Hacienda y Administraciones Públicas.
+
+Para la obtención de certificados y para la impresión de documentos necesita tener instalado un lector de archivos PDF como Adobe Acrobat Reader.
+
+En caso de tener problemas con algún servicio de la sede electrónica consulte el apartado de Preguntas frecuentes (FAQs)

@@ -1,0 +1,3 @@
+Este servicio del Ayuntamiento permite que un ciudadano pueda consultar en todo momento la disponibilidad de los documentos que se ha generado de forma automática desde la propia Sede electrónica.
+
+Puede consultar sus documentos desde el servicio "Documentos" del menú "Mis Datos".

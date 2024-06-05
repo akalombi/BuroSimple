@@ -1,0 +1,6 @@
+Evite los siguientes caracteres:
+-Acentos
+-Paréntesis
+-Códigos ASCII
+
+Recomendamos nombres cortos y simples (ejemplo: documento 1, documento 2, ...)

@@ -1,0 +1,1 @@
+Puede consultar la información referente a sus expedientes desde el servicio "Expedientes" del menú "Mis Datos".

@@ -1,0 +1,1 @@
+Puede consultar la información referente a sus recibos pendientes y cobrados desde el servicio "Recibos" del menú "Mis Datos".

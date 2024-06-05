@@ -1,0 +1,1 @@
+Firefox dispone de un almacén de certificados distinto al de Internet Explorer y Chrome. Es por ello, que tanto el certificado que se quiera utilizar como las claves públicas del mismo deberán estar instaladas en el almacén de claves de Firefox.

@@ -1,0 +1,3 @@
+Dentro de cada solicitud, a la hora de subir un fichero, se especifican los formatos admitidos.
+
+No obstante se recomienda el subir el documento en formato PDF.
