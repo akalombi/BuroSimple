@@ -1,4 +1,4 @@
-# Manual de uso
+# Manual
 
 En este documento se detalla paso a paso todo lo necesario para la **instalación y uso** del software desarrollado.
 
