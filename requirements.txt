@@ -1,1 +1,1 @@
-llama_index==0.10.34
+llama_index==0.10.18
