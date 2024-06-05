@@ -25,6 +25,7 @@ DATA_DIR = config['Rutas']['directorio_corpus'] # De este directorio se cargan l
 DICT_ENLACES_DIR = config['Rutas']['diccionario_enlaces']
 clave_openai = config['Keys']['clave_openai']
 K = int(config['Parametros']['k_mas_similares'])
+consulta = config['Consulta']['consulta']
 
 # Establecemos una variable de entorno (solo para esta sesión, no a nivel de sistema operativo) para la clave de la API de OpenAI
 os.environ['OPENAI_API_KEY'] = clave_openai
@@ -32,7 +33,6 @@ os.environ['OPENAI_API_KEY'] = clave_openai
 # Definimos el LLM y el modelo de embedding que va a utilizarse
 Settings.llm = OpenAI(model=llm)
 Settings.embed_model = OpenAIEmbedding(model=embed_model)
-
 
 # Comprobamos si ya existe un índice almacenado
 
@@ -68,16 +68,22 @@ descripcion_prompt = (
 # Instanciamos la plantilla
 nuevo_prompt = PromptTemplate(descripcion_prompt)
 
+
 # Actualizamos el prompt del motor de consulta
 query_engine.update_prompts(
     {"response_synthesizer:text_qa_template": nuevo_prompt}
 )
 
+
+
 # Ejecución de consulta
-response = query_engine.query("hola")
+print("\n-------------- Respuesta --------------\n")
+response = query_engine.query(consulta)
 print(response)
 
+
 # Sacamos la similitud de los nodos recuperados
+print("\n-------------- Similitud con nodos recuperados --------------\n")
 for nodo in response.source_nodes:
     print(nodo.get_score())
 
